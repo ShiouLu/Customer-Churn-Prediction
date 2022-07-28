@@ -14,7 +14,7 @@ Developing a rolling-window churn prediction system with Python and SQLite
 
 ▪︎ The database contains 64,228 transaction records of 5,359 customers in six months
 
-▪︎ With preceding research, thecustomer churn is defined as "31 days of inactivity" 
+▪︎ Based on preceding research, customer churn is defined as "31 days of inactivity" 
 
 
 
